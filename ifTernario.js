@@ -20,3 +20,4 @@ const a = 15;
 const b = 6;
 
 console.log(a > b ? `${a} é maior que ${b}` : `${b} é maior que ${a}`);
+console.log("Estou aprendendo");
