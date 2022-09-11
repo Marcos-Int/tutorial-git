@@ -1,5 +1,5 @@
-let tabuada = 7;
+let tabuada = 10;
 
 for(let i = 0; i <= 10; i++){
-    `${tabuada} x ${i} = ${tabuada * i}`;
+    console.log(`${tabuada} x ${i} = ${tabuada * i}`);
 }
