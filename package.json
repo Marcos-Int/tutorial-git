@@ -1,0 +1,23 @@
+{
+  "name": "testeclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculadora.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node calculadora.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcos-Int/tutorial-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcos-Int/tutorial-git/issues"
+  },
+  "homepage": "https://github.com/Marcos-Int/tutorial-git#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
