@@ -11,6 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Marcos-Int/tutorial-git.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -19,7 +20,5 @@
   "homepage": "https://github.com/Marcos-Int/tutorial-git#readme",
   "dependencies": {
     "nodemon": "^2.0.19"
-  },
-  "devDependencies": {},
-  "keywords": []
+  }
 }
