@@ -18,7 +18,8 @@
     "url": "https://github.com/Marcos-Int/tutorial-git/issues"
   },
   "homepage": "https://github.com/Marcos-Int/tutorial-git#readme",
-  "dependencies": {
-    "nodemon": "^2.0.19"
+  "devDependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.20"
   }
 }

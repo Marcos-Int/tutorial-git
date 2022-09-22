@@ -1,4 +1,7 @@
 const funcoes = require('./funcoes');
+const express = require('express');
+
+const app = express();
 
 console.log('Vários códigos:\n');
 console.log(funcoes.somar(40, 5));
